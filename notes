@@ -1,0 +1,5 @@
+Ansible(Configuration Management tool):
+--------------------------------------
+Ansible is a configuration management tool,It will manage the configuration on target machines.
+Control node:- Where the ansible software got installed we can call it as Contorl node.
+Manage node:-The targeted machines we call it as Managed nodes.
